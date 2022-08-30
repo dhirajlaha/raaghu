@@ -35,7 +35,7 @@ Share your appreciation to raaghu design system contributors with a ⭐️
 <br><br>
 &emsp;   <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image (2).png">  &emsp;      <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image (3).png">  
 <br><br>
-&emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image (4).png"><br>
+&emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image (5).png"><br>
 
 #  Prerequisites for development
 
