@@ -16,11 +16,10 @@
     <a href="https://github.com/Wai-Technologies/raaghu/issues/new">Report Bug</a>
 </p>
 
-# 👋 Introducing `raaghu` 
+# 👋 Introducing __`raaghu`__ 
 
-`raaghu` is an opensource micro front end framework built on top of `raaghu-elements`, Bootstrap 5 and Storybook offering highly customizable UI components and built-in pages.
+__`raaghu`__ micro-frontend(mfe) is an angular based open-source software built with Bootstrap 5 as well as Storybook framework.raaghu mfe enables you to build complex components as well as UI layout by applying CSS to the inbuilt __`raaghu-elements`__, components and pages according to the wireframe
 
-Raaghu mfe can be used as a base to build complex components and UI layouts whilst maintaining a high level of reusability,flexibility with ease of maintenance.
 
 # 🚀 Demo
 
