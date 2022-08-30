@@ -74,11 +74,12 @@ git clone https://github.com/Wai-Technologies/raaghu.git
 <a href="https://ibb.co/MhkR2y0"><img src="https://i.ibb.co/W3vcxNJ/Screenshot-17.png" alt="Screenshot-17" border="0"></a><br />
 
 2. Change the working directory
-  <a href="https://ibb.co/7NmMnGP"><img src="https://i.ibb.co/fGw6kCf/Screenshot-11.png" alt="Screenshot-11" border="0"></a><br />
-
+ 
 ```bash
 cd raaghu/raaghu-elements
 ```
+ <a href="https://ibb.co/7NmMnGP"><img src="https://i.ibb.co/fGw6kCf/Screenshot-11.png" alt="Screenshot-11" border="0"></a><br />
+
 
 3. Install dependencies
 
