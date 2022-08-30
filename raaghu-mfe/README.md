@@ -77,7 +77,7 @@ You can run `raaghu-mfe` locally with a few easy steps.
 ```bash
 git clone https://github.com/Wai-Technologies/raaghu.git
 ```
-<img src="../static/Screenshot (17).png" alt="Screenshot-17"  border="0"><br />
+<img src="../static/clone.png" alt="Screenshot-17"  border="0"><br />
 
 2. Change the working directory
  
