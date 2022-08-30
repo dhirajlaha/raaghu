@@ -16,9 +16,10 @@
     <a href="https://github.com/Wai-Technologies/raaghu/issues/new">Report Bug</a>
 </p>
 
-# 👋 Introducing __`raaghu`__ 
+#  Introducing __`raaghu`__ 
 
-__`raaghu`__ micro-frontend(mfe) is an angular based open-source software built with Bootstrap 5 as well as Storybook framework.raaghu mfe enables you to build complex components as well as UI layout by applying CSS to the inbuilt __`raaghu-elements`__, components and pages according to the wireframe
+__`raaghu`__ micro-frontend(mfe) is an angular based open-source software built with Bootstrap 5 and Storybook framework.raaghu mfe enables you to build complex components as well as UI layout by applying CSS to the inbuilt __`raaghu-elements`__, components and pages according to the wireframe design<br>
+Micro front-end architecture breaks page designs into components that results in a high-level reusabiility, flexibility, with ease of maintainence.
 
 
 # 🚀 Demo
