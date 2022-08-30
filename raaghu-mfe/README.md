@@ -24,38 +24,18 @@ Micro front-end architecture breaks page designs into components that results in
 
 #  Demo
 
-Here is a quick [demo] of the elements.
-
-<video width="320" height="240" controls>
-  <source src="../static/demo.mp4" type="video/mp4">
-</video>
-
+Here is a quick [demo](https://user-images.githubusercontent.com/112168652/187441376-484413cc-b4a5-494f-b037-1a44796de26f.mp4) of the elements.
 
 
 Share your appreciation to raaghu design system contributors with a ⭐️
 
 #  Features
 
-##  High reusability
- - Promotes reusability throughout the UI and pages
- - Reduces code duplication and helps in delivering a more consistent, even UI
-
-##  Micro Front End Architecture
-- Each element is a separate micro front end on its own
-- Elements can be worked on in isolation
-
-##  Theming
-- Achieve high level customization on elements,pages with raaghu theme engine
-- Set required tone of your projects with only a few css variables
-
-##  Responsive and mobile-friendly
-- All of the elements are built for a wide variety of screen sizes
-
-## Acceleration
-- Achieve up to 3X acceleration with front end development through modular creation and component composition
-
-## Scalability
-- Provides better scalability as each codebase is much simpler to build, test and maintain
+&emsp;   <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image.png"> &emsp;     <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image (1).png">
+<br><br>
+&emsp;   <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image (2).png">  &emsp;      <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image (3).png">  
+<br><br>
+&emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image (4).png"><br>
 
 #  Prerequisites for development
 
@@ -120,19 +100,23 @@ npm run sync-elements
 ```bash
 npm run patch-dev-server
 ```
+<img src="../static/Screenshot (14).png" alt="Screenshot-17"  border="0"><br />
 
 8. Build and serve
 
 ```bash
 npm run start
 ```
-
+<img src="../static/npm-run start.png" alt="Screenshot-17"  border="0"><br />
 9. Storybook
+
 
 ```bash
 # View all pages and components and elements inside the storybook
 npm run storybook 
 ```
+<img src="../static/npm run storybook.png" alt="Screenshot-17"  border="0"><br />
+
 
 ##  Development support
 
