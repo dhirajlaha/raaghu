@@ -24,7 +24,13 @@ Micro front-end architecture breaks page designs into components that results in
 
 # 🚀 Demo
 
-Here is a quick [demo](https://www.raaghu.io) of the elements.
+Here is a quick [demo] of the elements.
+
+<video width="320" height="240" controls>
+  <source src="../static/demo.mp4" type="video/mp4">
+</video>
+
+
 
 Share your appreciation to raaghu design system contributors with a ⭐️
 
