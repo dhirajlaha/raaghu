@@ -48,8 +48,12 @@ What is Raaghu?
 </h1>
 
 <p>
-`raaghu` is an opensource micro front end framework built on top of `raaghu-elements`, Bootstrap 5 and Storybook offering highly customizable UI components and built-in pages. Raaghu can be used as a base to build complex components and UI layouts whilst maintaining a high level of reusability,flexibility with ease of maintenance.
+<b>raaghu<b> is an opensource Angular based front-end framework leveraging micro front end capabilities that helps in building efficient, reliable and scalable front-end applications with built on top of raaghu elements as well as front end toolkit like <b>Bootstrap<b>, <b>storybook<b> offering highly customizable UI components and built in pages and UI layouts. 
 </p> 
+
+<h1 align="" style="border-bottom:0;">
+Why raaghu?
+</h1>
 <p align="center">
         <img src="./static/Features-new.png" alt="logo" width="1000"/>
 <p/>
