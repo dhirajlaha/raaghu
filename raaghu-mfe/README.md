@@ -22,7 +22,7 @@ __`raaghu`__ micro-frontend(mfe) is an angular based open-source software built 
 Micro front-end architecture breaks page designs into components that results in a high-level reusabiility, flexibility, with ease of maintainence.
 
 
-# 🚀 Demo
+#  Demo
 
 Here is a quick [demo] of the elements.
 
@@ -34,21 +34,21 @@ Here is a quick [demo] of the elements.
 
 Share your appreciation to raaghu design system contributors with a ⭐️
 
-# 🔥 Features
+#  Features
 
-## 🔢 High reusability
+##  High reusability
  - Promotes reusability throughout the UI and pages
  - Reduces code duplication and helps in delivering a more consistent, even UI
 
-## 🏗️ Micro Front End Architecture
+##  Micro Front End Architecture
 - Each element is a separate micro front end on its own
 - Elements can be worked on in isolation
 
-## 📢 Theming
+##  Theming
 - Achieve high level customization on elements,pages with raaghu theme engine
 - Set required tone of your projects with only a few css variables
 
-## 📱 Responsive and mobile-friendly
+##  Responsive and mobile-friendly
 - All of the elements are built for a wide variety of screen sizes
 
 ## Acceleration
@@ -57,7 +57,7 @@ Share your appreciation to raaghu design system contributors with a ⭐️
 ## Scalability
 - Provides better scalability as each codebase is much simpler to build, test and maintain
 
-# ⚛️ Prerequisites for development
+#  Prerequisites for development
 
 > #### To use the raaghu, you should be familiar with:
 > - TypeScript
@@ -69,7 +69,7 @@ Share your appreciation to raaghu design system contributors with a ⭐️
 > - Node.js with NPM (Node Package Manager)
 > - Angular-CLI (Command Line Interface)
 
-# 🏗️ How to Set up `raaghu-mfe` for Development?
+#  How to Set up `raaghu-mfe` for Development?
 You can run `raaghu-mfe` locally with a few easy steps.
 
 1. Clone the repository
@@ -131,7 +131,7 @@ npm run start
 npm run storybook 
 ```
 
-## 🏗️ Development support
+##  Development support
 
 1. Create a common Library
 
@@ -158,22 +158,22 @@ npm run page <mfe_name> <page_name>
 ```
 
 
-# 🍔 Built With
+#  Built With
 - [raaghu-elements Libraries](https://www.npmjs.com/package/rds-elements): Build bulletproof UI components faster
 - [Bootstrap 5](https://bootstrap.com/): Sleek, intuitive, and powerful framework for faster and easier web development.
 - [Storybook](https://storybook.js.org/): Build bulletproof UI components faster
 
-# 🛡️ License
+#  License
 This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
 
 
-# 🤝 Contributing to `Raaghu`
+#  Contributing to `Raaghu`
 Help us grow by contributing to raaghu micro front-end design system. 
 
  You can work on any features [listed here](https://github.com/Wai-Technologies/raaghu-elements#-upcoming-features)
  or create a custom one. After adding your code, please send us a Pull Request.  
 
-# 🙏 Support
+#  Support
 
 We all need support and motivation. `Raaghu` is not an exception. Please give this project a ⭐️ to encourage and show that you liked it. Don't forget to leave a star ⭐️ before you move away.
 
