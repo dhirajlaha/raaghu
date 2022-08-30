@@ -84,7 +84,7 @@ git clone https://github.com/Wai-Technologies/raaghu.git
 ```bash
 cd raaghu/raaghu-elements
 ```
- <a href="https://ibb.co/7NmMnGP"><img src="https://i.ibb.co/fGw6kCf/Screenshot-11.png" alt="Screenshot-11" border="0"></a><br />
+
 
 
 3. Install dependencies
@@ -92,12 +92,14 @@ cd raaghu/raaghu-elements
 ```bash
 npm install
 ```
+<img src="../static/npm-install.png" alt="Screenshot-17"  border="0"><br />
 
 4. Change the working directory
 
 ```bash
 cd raaghu/raaghu-mfe
 ```
+<img src="../static/cd.png" alt="Screenshot-17"  border="0"><br />
 
 5. Install dependencies
 
@@ -110,6 +112,7 @@ npm install
 ```bash
 npm run sync-elements
 ```
+<img src="../static/npm sync elements.png" alt="Screenshot-17"  border="0"><br />
 > **_NOTE:_** Above command will sync/copy raaghu-elements from public repository to the above local MFE project.
 
 7. Patch Dev Server
