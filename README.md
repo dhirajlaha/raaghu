@@ -74,11 +74,22 @@ We create your wireframes or use existing available wireframes. Based on your wi
 
 These components come together to create the same wireframe design and form a page.We deploy these components through our Ci/Cd pipeline and make use of our micro front end architecture. 
  
+<h2 align="" style="border-bottom:0;color:#964BFF;">
+ Getting started with raaghu
+</h2>
+ 
+
+- [Setup raaghu](https://github.com/Wai-Technologies/raaghu/tree/main/raaghu-mfe#%EF%B8%8F-how-to-set-up-raaghu-mfe-for-development): For development
+- [Development Support](https://github.com/Wai-Technologies/raaghu/tree/main/raaghu-mfe#%EF%B8%8F-development-support): Create a common Library, Component, Screen / MFE etc
+- [Storybook](https://storybook.raaghu.io/): Build bulletproof UI components faster
+- [Elements & Components](http://portal.raaghu.io/): Preview of all raaghu elements, components & pages.
+- [Demo](http://raaghu.io/): Dashboard Demo (Light & Dark theme) 
+- [Figma](http:#): Preview & download Figma gesigns
+- [XD](http://raaghu.io/): Preview & download xd Designs
+
+<h2 align="" style="border-bottom:0;color:#964BFF;"> 
  
  
- 
- 
-</br></br>
 <h1 align="" style="border-bottom:0;">
 Startup Templates
 </h1>
@@ -185,21 +196,7 @@ Built on a robust tech stack and platform
  
  
 </br></br> 
-<h2 align="" style="border-bottom:0;color:#964BFF;">
- Quick Links
-</h2>
- 
 
-- [Setup raaghu](https://github.com/Wai-Technologies/raaghu/tree/main/raaghu-mfe#%EF%B8%8F-how-to-set-up-raaghu-mfe-for-development): For development
-- [Development Support](https://github.com/Wai-Technologies/raaghu/tree/main/raaghu-mfe#%EF%B8%8F-development-support): Create a common Library, Component, Screen / MFE etc
-- [Storybook](https://storybook.raaghu.io/): Build bulletproof UI components faster
-- [Elements & Components](http://portal.raaghu.io/): Preview of all raaghu elements, components & pages.
-- [Demo](http://raaghu.io/): Dashboard Demo (Light & Dark theme) 
-- [Figma](http:#): Preview & download Figma gesigns
-- [XD](http://raaghu.io/): Preview & download xd Designs
-
-</br> </br>
-<h2 align="" style="border-bottom:0;color:#964BFF;">
 
 
 #  License
