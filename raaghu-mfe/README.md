@@ -147,8 +147,8 @@ npm run page <mfe_name> <page_name>
 
 
 #  Built With
-- [Angular 13.x](https://angular.io/]): Modern web Developer's platform
-- [Bootstrap 5](https://bootstrap.com/): Sleek, intuitive, and powerful framework for faster and easier web development.
+- [Angular 13](https://angular.io/): Modern web Developer's platform
+- [Bootstrap 5](https://getbootstrap.com/): Sleek, intuitive, and powerful framework for faster and easier web development.
 - [raaghu-elements Libraries](https://www.npmjs.com/package/rds-elements): Build bulletproof UI components faster
 - [Storybook](https://storybook.js.org/): Build bulletproof UI components faster
 
