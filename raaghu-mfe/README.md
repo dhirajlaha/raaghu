@@ -39,15 +39,17 @@ Share your appreciation to raaghu design system contributors with a ⭐️
 #  Prerequisites for development
 
 > #### To use the raaghu, you should be familiar with:
-> - Angular: Desired version-13.1x or higher
+> - Angular: Desired version-13.x 
 > - TypeScript
 > - JavaScript
 > - HTML
 > - CSS
 
 > #### To setup raaghu on your local system:
-> - Node.js with NPM (Node Package Manager)
-> - Angular-CLI (Command Line Interface)
+> - Angular-CLI (Command Line Interface): version 13.x
+> - Node.js: version 16.x
+> - with NPM (Node Package Manager): version 8.x
+
 
 #  How to Set up `raaghu-mfe` for Development?
 You can run `raaghu-mfe` locally with a few easy steps.
