@@ -33,16 +33,13 @@ Share your appreciation to raaghu design system contributors with a ⭐️
 
 #  Features
 
-&emsp;   <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image.png"> &emsp;     <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image (1).png">
-<br><br>
-&emsp;   <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image (2).png">  &emsp;      <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image (3).png">  
-<br><br>
-&emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image (5).png"><br>
+&emsp;   <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image (6).png"> &emsp;    
+
 
 #  Prerequisites for development
 
 > #### To use the raaghu, you should be familiar with:
-> - Angular
+> - Angular: Desired version-13.1x or higher
 > - TypeScript
 > - JavaScript
 > - HTML
