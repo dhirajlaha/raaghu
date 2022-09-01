@@ -40,6 +40,7 @@ Share your appreciation to raaghu design system contributors with a ⭐️
 #  Prerequisites for development
 
 > #### To use the raaghu, you should be familiar with:
+> - Angular
 > - TypeScript
 > - JavaScript
 > - HTML
