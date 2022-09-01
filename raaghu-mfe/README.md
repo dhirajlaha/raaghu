@@ -152,10 +152,6 @@ npm run page <mfe_name> <page_name>
 - [Bootstrap 5](https://getbootstrap.com/): Sleek, intuitive, and powerful framework for faster and easier web development.
 - [raaghu-elements Libraries](https://www.npmjs.com/package/rds-elements): Build bulletproof UI components faster
 - [Storybook](https://storybook.js.org/): Build bulletproof UI components faster
-
-
-#  License
-This project is licensed under the Apache License - see the [`LICENSE`](LICENSE) file for details.
  
 
 #  Support
