@@ -44,7 +44,7 @@
 
 </br></br>
 <h1 align="" style="border-bottom:0;">
-What is Raaghu?
+What is raaghu?
 </h1>
 
 <p>
