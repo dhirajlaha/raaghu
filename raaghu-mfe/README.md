@@ -24,7 +24,9 @@ Micro front-end architecture breaks page designs into components that results in
 
 #  Demo
 
-Here is a quick [demo](https://user-images.githubusercontent.com/112168652/187441376-484413cc-b4a5-494f-b037-1a44796de26f.mp4) of the elements.
+Here is a quick demo
+
+<img title="a title" alt="Alt text" src="../static/raaghu.gif">
 
 
 Share your appreciation to raaghu design system contributors with a ⭐️
