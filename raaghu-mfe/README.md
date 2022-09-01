@@ -157,13 +157,7 @@ npm run page <mfe_name> <page_name>
 
 #  License
 This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
-
-
-#  Contributing to `Raaghu`
-Help us grow by contributing to raaghu micro front-end design system. 
-
- You can work on any features [listed here](https://github.com/Wai-Technologies/raaghu-elements#-upcoming-features)
- or create a custom one. After adding your code, please send us a Pull Request.  
+ 
 
 #  Support
 
