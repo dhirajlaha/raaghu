@@ -48,7 +48,7 @@ Share your appreciation to raaghu design system contributors with a ⭐️
 > #### To setup raaghu on your local system:
 > - Angular-CLI (Command Line Interface): version 13.x
 > - Node.js: version 16.x
-> - with NPM (Node Package Manager): version 8.x
+> - NPM (Node Package Manager): version 8.x
 
 
 #  How to Set up `raaghu-mfe` for Development?
