@@ -200,6 +200,11 @@ Built on a robust tech stack and platform
 
 </br> </br>
 <h2 align="" style="border-bottom:0;color:#964BFF;">
+
+
+#  License
+This project is licensed under the Apache License - see the [`LICENSE`](/LICENSE) file for details.
+
  Contribute 🤝
 </h2>
 <p>
