@@ -48,7 +48,7 @@ What is Raaghu?
 </h1>
 
 <p>
-<b>raaghu<b> is an opensource Angular based front-end framework leveraging micro front end capabilities that helps in building efficient, reliable and scalable front-end applications with built on top of raaghu elements as well as front end toolkit like <b>Bootstrap<b>, <b>storybook<b> offering highly customizable UI components and built in pages and UI layouts. 
+<b>raaghu<b> is an open source Angular based front-end design system leveraging micro front end capabilities that helps in building efficient, reliable and scalable front-end applications . raaghu is built on top of raaghu elements as well as front end toolkit like <b>Bootstrap<b>, <b>storybook<b> offering highly customizable UI components and built in pages.
 </p> 
 
 <h1 align="" style="border-bottom:0;">
@@ -57,9 +57,6 @@ Why raaghu?
 <p align="center">
         <img src="./static/Features-new.png" alt="logo" width="1000"/>
 <p/>
-
-
-
 
 <h1 align="" style="border-bottom:0;color:#964BFF;">
 How Raaghu works?
@@ -70,13 +67,13 @@ How Raaghu works?
 <p/>
 <br/>
 <br/>
-We create your wireframes or use existing available wireframes. Based on your wireframe and theme design / branding, we apply the same CSS to elements, components and pages that we have. Based on Component driven development and our micro front end architecture we break your page design into components and enrich your library.​
+We create your wireframes or use existing available wireframes. Based on your wireframe and theme design / branding, we apply the same CSS to elements, components and pages that we have. Based on Component driven development and our micro front end architecture we break your page design into components and enrich your library.
 
 These components come together to create the same wireframe design and form a page.We deploy these components through our Ci/Cd pipeline and make use of our micro front end architecture. 
  
-<h2 align="" style="border-bottom:0;color:#964BFF;">
+<h1 align="" style="border-bottom:0;color:#964BFF;">
  Getting started with raaghu
-</h2>
+</h1>
  
 
 - [Setup raaghu](https://github.com/Wai-Technologies/raaghu/tree/main/raaghu-mfe#%EF%B8%8F-how-to-set-up-raaghu-mfe-for-development): For development
