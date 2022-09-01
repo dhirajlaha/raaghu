@@ -11,7 +11,7 @@
 <p/>
 
 <p align="center">
-    <a href="https://raaghu.io" target="blank">View Demo</a>
+    <a href="https://raaghu.io" target="blank">View Page</a>
     ·
     <a href="https://github.com/Wai-Technologies/raaghu/issues/new">Report Bug</a>
 </p>
