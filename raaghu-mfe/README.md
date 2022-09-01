@@ -147,9 +147,11 @@ npm run page <mfe_name> <page_name>
 
 
 #  Built With
-- [raaghu-elements Libraries](https://www.npmjs.com/package/rds-elements): Build bulletproof UI components faster
+- [Angular 13.x](https://angular.io/]): Modern web Developer's platform
 - [Bootstrap 5](https://bootstrap.com/): Sleek, intuitive, and powerful framework for faster and easier web development.
+- [raaghu-elements Libraries](https://www.npmjs.com/package/rds-elements): Build bulletproof UI components faster
 - [Storybook](https://storybook.js.org/): Build bulletproof UI components faster
+
 
 #  License
 This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
