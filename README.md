@@ -23,13 +23,13 @@
     <img alt="GitHub licence" src="https://img.shields.io/github/license/Wai-Technologies/raaghu?color=orange"
     </a>
     <a href="https://github.com/Wai-Technologies/raaghu/stargazers" target="blank">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Wai-Technologies/raaghu?style=social"/>
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Wai-Technologies/raaghu?color=orange&style=plastic">
     </a>
     <a href="https://github.com/Wai-Technologies/raaghu/issues" target="blank">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Wai-Technologies/raaghu?style=social"/>
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Wai-Technologies/raaghu?color=orange">
     </a>
     <a href="https://github.com/Wai-Technologies/raaghu/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Wai-Technologies/raaghu?style=social" />
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Wai-Technologies/raaghu?color=orange">
     </a>
 </p>
 
