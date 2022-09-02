@@ -44,7 +44,7 @@ Raaghu elements can be used as a base to build complex components and UI layouts
 
 
 # 🚀 Demo
-Here is a quick [demo](https://www.raaghu.io) of the elements. We hope you enjoy it.
+Here is a quick [demo](https://storybook.raaghu.io) of the elements. We hope you enjoy it.
 
 Liked it? Please give us a ⭐️ to show your appreciation
 
