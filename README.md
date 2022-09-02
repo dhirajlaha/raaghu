@@ -20,7 +20,7 @@
 
 <p align="center">
     <a href="https://github.com/Wai-Technologies/raaghu/blob/main/LICENSE" target="blank">
-    <img alt="GitHub licence" src="https://img.shields.io/github/license/Wai-Technologies/raaghu?style=social" />
+    <img alt="GitHub licence" src="https://img.shields.io/github/license/Wai-Technologies/raaghu?color=orange"
     </a>
     <a href="https://github.com/Wai-Technologies/raaghu/stargazers" target="blank">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/Wai-Technologies/raaghu?style=social"/>
