@@ -37,6 +37,11 @@
 <a href="https://npmjs.org/rds-elements"><img src="https://img.shields.io/npm/v/rds-elements/latest.svg" alt="npm latest version" ></a>
 <a href="https://npmjs.org/rds-elements"><img src="https://img.shields.io/npm/v/rds-elements/next.svg" alt="npm next version" ></a>
 </p>
+</br>
+<h1 align="" style="border-bottom:0;">
+Contents
+</h1>
+
 
 * [ What is raaghu](#raahghu-intro)
 *  [Why raaghu?](#why)
