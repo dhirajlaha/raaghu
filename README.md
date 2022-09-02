@@ -38,29 +38,29 @@
 <a href="https://npmjs.org/rds-elements"><img src="https://img.shields.io/npm/v/rds-elements/next.svg" alt="npm next version" ></a>
 </p>
 
-
+* [ What is raaghu](#raahghu-intro)
+*  [Why raaghu?](#why)
+*  [How raaghu works?](#how)   
+*  [Getting started with raaghu](#started)
+*  [Startup Templates](#templates)
+*  [Build with](#build_with)
+*  [License](#license)
+*  [ WAi Technologies Contributors](#contributers)
 
 
 
 </br></br>
-<h1 align="" style="border-bottom:0;">
-What is raaghu?
-</h1>
-
+##  <a name='raahghu-intro'></a> What is raaghu
 <p>
 <b>raaghu<b> is an open source Angular based front-end design system leveraging micro front end capabilities that helps in building efficient, reliable and scalable front-end applications . raaghu is built on top of raaghu elements as well as front end toolkit like <b>Bootstrap<b>, <b>storybook<b> offering highly customizable UI components and built in pages.
 </p> 
 
-<h1 align="" style="border-bottom:0;">
-Why raaghu?
-</h1>
+##  <a name='why'></a> Why raaghu?
 <p align="center">
         <img src="./static/Features-new.png" alt="logo" width="1000"/>
 <p/>
 
-<h1 align="" style="border-bottom:0;color:#964BFF;">
-How Raaghu works?
-</h1>
+##  <a name='how'></a> How raaghu works?
 </br></br></br> 
 <p align="center">
         <img src="./static/raaghu-illustration.png" alt="logo" width="600"/>
@@ -71,10 +71,7 @@ We create your wireframes or use existing available wireframes. Based on your wi
 
 These components come together to create the same wireframe design and form a page.We deploy these components through our Ci/Cd pipeline and make use of our micro front end architecture. 
  
-<h1 align="" style="border-bottom:0;color:#964BFF;">
- Getting started with raaghu
-</h1>
- 
+##  <a name='started'></a> Getting started with raaghu
 
 - [Setup raaghu](https://github.com/Wai-Technologies/raaghu/tree/main/raaghu-mfe#%EF%B8%8F-how-to-set-up-raaghu-mfe-for-development): For development
 - [Development Support](https://github.com/Wai-Technologies/raaghu/tree/main/raaghu-mfe#%EF%B8%8F-development-support): Create a common Library, Component, Screen / MFE etc
@@ -87,9 +84,7 @@ These components come together to create the same wireframe design and form a pa
 <h2 align="" style="border-bottom:0;color:#964BFF;"> 
  
  
-<h1 align="" style="border-bottom:0;">
-Startup Templates
-</h1>
+##  <a name='templates'></a> Startup Templates
 <p>
 A collection of open-source statrter templates, Free templates that are perfect starter layouts for your application. Create your solution based on free or premium startup templates. Either with an Angular Single-Page Application or Classic MVC & jQuery architecture.
 </p> 
@@ -99,9 +94,7 @@ A collection of open-source statrter templates, Free templates that are perfect 
 <p/>
  
 </br>
-<h1 align="" style="border-bottom:0;">
-    Build With
-</h1>
+ <a name='build_with'></a> Build with
 <p align="">
 Built on a robust tech stack and platform
 </p> 
@@ -196,7 +189,7 @@ Built on a robust tech stack and platform
 
 
 
-#  License
+##  <a name='license'></a> License
 This project is licensed under the Apache License - see the [`LICENSE`](/LICENSE) file for details.
 
  Contribute 🤝
@@ -206,9 +199,9 @@ Any kind of positive contribution is welcome! Please help us to grow by contribu
     If you wish to contribute, you can work on any features <a href="https://github.com/Wai-Technologies/raaghu/tree/main/raaghu-mfe#-features" > [listed here] </a> or create one on your own. After adding your code, please send us a Pull Request.  
 </p>
 </br>
-<h2 align="" style="border-bottom:0;color:#964BFF;">
- WAi Technologies Contributors ✨
-</h2>
+
+## <a name='contributers'></a> WAi Technologies Contributors ✨
+
  
 
 Thanks goes to these wonderful people and Wai technology.
