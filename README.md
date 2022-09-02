@@ -1,4 +1,18 @@
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<!-- vscode-markdown-toc -->
+		* 1. [What is raaghu?](#raaghu)
+		* 2. [Why](#-1)
+		* 3. [](#-1)
+		* 4. [](#-1)
+		* 5. [](#-1)
+		* 6. [](#-1)
+		* 7. [](#-1)
+		* 8. [](#-1)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc --><!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <p align="center">
     <a href="https://raaghu.io" target="_blank">
@@ -41,26 +55,25 @@
 
 
 
+</br>
 
-</br></br>
-<h1 align="" style="border-bottom:0;">
-What is raaghu?
-</h1>
+##  1. <a name='raaghu'></a>
+<br>
 
 <p>
 <b>raaghu<b> is an open source Angular based front-end design system leveraging micro front end capabilities that helps in building efficient, reliable and scalable front-end applications . raaghu is built on top of raaghu elements as well as front end toolkit like <b>Bootstrap<b>, <b>storybook<b> offering highly customizable UI components and built in pages.
 </p> 
 
-<h1 align="" style="border-bottom:0;">
-Why raaghu?
-</h1>
+
+####  2. <a name='-1'></a>
+<br>
 <p align="center">
         <img src="./static/Features-new.png" alt="logo" width="1000"/>
 <p/>
 
-<h1 align="" style="border-bottom:0;color:#964BFF;">
-How Raaghu works?
-</h1>
+
+####  3. <a name='-1'></a>
+
 </br></br></br> 
 <p align="center">
         <img src="./static/raaghu-illustration.png" alt="logo" width="600"/>
@@ -71,9 +84,9 @@ We create your wireframes or use existing available wireframes. Based on your wi
 
 These components come together to create the same wireframe design and form a page.We deploy these components through our Ci/Cd pipeline and make use of our micro front end architecture. 
  
-<h1 align="" style="border-bottom:0;color:#964BFF;">
- Getting started with raaghu
-</h1>
+
+####  4. <a name='-1'></a>>
+
  
 
 - [Setup raaghu](https://github.com/Wai-Technologies/raaghu/tree/main/raaghu-mfe#%EF%B8%8F-how-to-set-up-raaghu-mfe-for-development): For development
@@ -87,9 +100,9 @@ These components come together to create the same wireframe design and form a pa
 <h2 align="" style="border-bottom:0;color:#964BFF;"> 
  
  
-<h1 align="" style="border-bottom:0;">
-Startup Templates
-</h1>
+
+####  5. <a name='-1'></a>
+
 <p>
 A collection of open-source statrter templates, Free templates that are perfect starter layouts for your application. Create your solution based on free or premium startup templates. Either with an Angular Single-Page Application or Classic MVC & jQuery architecture.
 </p> 
@@ -99,9 +112,9 @@ A collection of open-source statrter templates, Free templates that are perfect 
 <p/>
  
 </br>
-<h1 align="" style="border-bottom:0;">
-    Build With
-</h1>
+
+####  6. <a name='-1'></a>/a>
+
 <p align="">
 Built on a robust tech stack and platform
 </p> 
@@ -196,7 +209,7 @@ Built on a robust tech stack and platform
 
 
 
-#  License
+####  7. <a name='-1'></a>
 This project is licensed under the Apache License - see the [`LICENSE`](/LICENSE) file for details.
 
  Contribute 🤝
@@ -207,7 +220,7 @@ Any kind of positive contribution is welcome! Please help us to grow by contribu
 </p>
 </br>
 <h2 align="" style="border-bottom:0;color:#964BFF;">
- WAi Technologies Contributors ✨
+####  8. <a name='-1'></a>
 </h2>
  
 
