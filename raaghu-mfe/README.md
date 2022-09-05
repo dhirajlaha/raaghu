@@ -50,8 +50,7 @@ Share your appreciation to raaghu design system contributors with a ⭐️
 &emsp;   <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image (6).png"> &emsp;    
 
 
-## <a name='pre'></a> Prerequisites for development
-# ⚛️
+## <a name='pre'></a> Prerequisites for development ⚛️
 
 > #### To use the raaghu, you should be familiar with:
 > - Angular: Desired version-13.x 
