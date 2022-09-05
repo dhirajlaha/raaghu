@@ -109,62 +109,72 @@ Built on a robust tech stack and platform
 <p/> -->
 
 <table>
-  <tr>   
-    <td align="center" border="none" style="border:none">
-        <img src="./static/visual-studio.png" width="80" title="Visual Studio"/>
-        <!--  <br /><sub><b>Mohan Bari</b></sub> -->
-    </td>
-    <td align="center" style="border: none">
-        <img src="./static/nodejs.png" width="80" title="Node JS"/>
-        <!-- <br /><sub><b>Alok Nakhate</b></sub> -->
-    </td>   
-    <td align="center" style="border: none">
-        <img src="./static/aspnetzero.png" width="80" title="AspnetZero"/>
-        <!-- <br /><sub><b>Apoorva Lele</b></sub> -->
-    </td>
-    <td align="center" border="none">
-        <img src="./static/gatsby.png" width="80" title="Gatsby"/>
-        <!-- <br /><sub><b>Omkar Choudhari</b></sub> -->
-    </td>
-    <td align="center" style="border: none">
-        <img src="./static/storybook.png" width="80" title="Storybook"/>
-        <!-- <br /><sub><b>Apoorva Lele</b></sub> -->
-    </td>
-    <td align="center" border="none">
-        <img src="./static/abpio.png" width="80" title="abpio"/>
-        <!-- <br /><sub><b>Omkar Choudhari</b></sub> -->
-    </td>
-  </tr>
-  
-  
-  
-  <tr>   
-    <td align="center" style="border: none">
+  <tr>  
+  <td align="center" style="border: none">
+    <a href="https://angular.io/">
         <img src="./static/angular.png" width="80" title="Angular"/>
         <!-- <br /><sub><b>Yohul Chitre</b></sub> -->
     </td>
-    <td align="center" style="border: none">
+       <td align="center" style="border: none">
+        <a href="https://getbootstrap.com/">
         <img src="./static/bootstrap.png" width="80" title="Bootstrap"/>
         <!-- <br /><sub><b>Priyanka Shinkar</b></sub> -->
     </td>
-    <td align="center" border="none" style="border:none">
-        <img src="./static/xd.png" width="80" title="Adobe XD"/>
+     </td>
+       <td align="center" style="border: none">
+        <a href="https://www.typescriptlang.org/">
+        <img src="./static/logo_typescript.png" width="80" title="typescript"/>
+        <!-- <br /><sub><b>Priyanka Shinkar</b></sub> -->
+    </td>
+    <td align="center" style="border: none">
+        <a href="https://storybook.js.org/">
+        <img src="./static/storybook.png" width="80" title="Storybook"/>
+        <!-- <br /><sub><b>Apoorva Lele</b></sub> -->
+    </td>
+      <td align="center" border:"none">
+        <a href="https://www.gatsbyjs.com/">
+        <img src="./static/gatsby.png" width="80" title="Gatsby"/>
+        <!-- <br /><sub><b>Omkar Choudhari</b></sub> -->
+    </td>
+  <tr>
+  
+  
+  <tr>
+  <td align="center" style="border: none">
+        <a href="https://www.aspnetzero.com/">
+        <img src="./static/aspnetzero.png" width="80" title="AspnetZero"/>
+        <!-- <br /><sub><b>Apoorva Lele</b></sub> -->
+    </td>
+        <td align="center" border="none">
+        <a href="https://abp.io/">
+        <img src="./static/abpio.png" width="80" title="abpio"/>
+        <!-- <br /><sub><b>Omkar Choudhari</b></sub> -->
+    </td>
+     <td align="center" border="none" style="border:none">
+         <a href="https://www.adobe.com/in/products/xd.html?promoid=3NQZBBTZ&mv=other">
+         <img src="./static/xd.png" width="80" title="Adobe XD"/>
         <!--  <br /><sub><b>Mohan Bari</b></sub> -->
     </td>
-    <td align="center" style="border: none">
-        <img src="./static/figma.png" width="80" title="Figma"/>
+     <td align="center" style="border: none">
+         <a href="https://www.figma.com/">
+         <img src="./static/figma.png" width="80" title="Figma"/>
         <!-- <br /><sub><b>Alok Nakhate</b></sub> -->
     </td>
-    <td align="center" style="border: none">
-        <img src="./static/lottie.png" width="80" title="Lottie"/>
-        <!-- <br /><sub><b>Yohul Chitre</b></sub> -->
+     <td align="center" border="none" style="border:none">
+        <a href="https://visualstudio.microsoft.com/">
+        <img src="./static/visual-studio.png" width="80" title="Visual Studio"/>
+        <!--  <br /><sub><b>Mohan Bari</b></sub> -->
     </td>
-    <td align="center" style="border: none">
-        <img src="./static/after-effects.png" width="80" title="After Effects"/>
-        <!-- <br /><sub><b>Priyanka Shinkar</b></sub> -->   
-    </td> 
+     
+    
+  
+    
+
   </tr>
   
+  
+  
+ 
 </table> 
  
  
