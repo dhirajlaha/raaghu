@@ -47,39 +47,6 @@ Share your appreciation to raaghu design system contributors with a ⭐️
 
 ##   <a name='Features'></a> Features
 
-## 🔢 High reusability
-- Promotes reusability throughout the UI and pages
-- Reduces code duplication and helps in delivering a more consistent, even UI
-
-
-
-## 🏗️ Micro Front End Architecture
-- Each element is a separate micro front end on its own
-- Elements can be worked on in isolation
-
-
-
-## 📢 Theming
-- Achieve high level customization on elements,pages with raaghu theme engine
-- Set required tone of your projects with only a few css variables
-
-
-
-## 📱 Responsive and mobile-friendly
-- All of the elements are built for a wide variety of screen sizes
-
-
-
-## Acceleration
-- Achieve up to 3X acceleration with front end development through modular creation and component composition
-
-
-
-## Scalability
-- Provides better scalability as each codebase is much simpler to build, test and maintain
-
-
-
 &emsp;   <img title="a title" alt="Alt text" src="../static/MicrosoftTeams-image (6).png"> &emsp;    
 
 
