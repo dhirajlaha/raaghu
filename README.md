@@ -323,7 +323,7 @@ Thanks goes to these wonderful people and Wai technology.
     </td>
        <td align="center" style="border: none">
       <a href="https://github.com/dhirajlaha">
-        <img src="https://avatars.githubusercontent.com/u/88035057?s=100v=4" width="100" title="Dhiraj Laha"/>
+        <img src="https://avatars.githubusercontent.com/u/82803816?v=4" width="100" title="Dhiraj Laha"/>
         <br /><sub><b>Dhiraj Laha</b></sub>
       </a>
     </td>
